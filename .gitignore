@@ -1,0 +1,22 @@
+# Virtual env
+venv/
+
+# Media
+media/
+
+# Static
+static/
+
+# IDE
+.idea/
+
+#Cache
+__pycache__/
+*.pyc
+.cache/
+
+#Env_file
+.env
+
+# Sqlite
+db.sqlite3
